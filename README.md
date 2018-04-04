@@ -16,3 +16,5 @@ The inspiration for this script came from HBO's famous Silicon Valley Show
     
 ```
 [See it in Action](https://twitter.com/twitter/statuses/970498083988656128)
+
+![image](https://user-images.githubusercontent.com/21070545/38285587-d988a8d6-378e-11e8-8596-0e845db3ab1e.png)
