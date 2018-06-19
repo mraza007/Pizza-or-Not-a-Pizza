@@ -1,6 +1,6 @@
 # Pizza-or-Not-a-Pizza
 It's a simple script that uses clarifai image recognition model to determine whether its a pizza or a not pizza
-The inspiration for this script came from HBO's famous Silicon Valley Show
+<br>The inspiration for this script came from HBO's famous Silicon Valley Show
  
  ## Installion 
  #### Apis Used
