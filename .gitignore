@@ -1,6 +1,6 @@
-/lib/
+/lib
 pyenv.cfg
-/share/
+/share
 /bin
 lib64
 pip-selfcheck.json
