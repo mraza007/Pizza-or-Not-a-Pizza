@@ -3,9 +3,9 @@ It's a simple script that uses clarifai image recognition model to determine whe
 <br>The inspiration for this script came from HBO's famous Silicon Valley Show
  
  ## Installion 
- #### Apis Used
- 1) Clarifai Api
- 2) Flask Api
+#### Things Needed
+1) Clarifai Api
+2) Flask
  3) Twilio Api
  4) Make sure to export Clarifai and Twilio API.
  5) tunnel localhost using ngrok to create a webhook
