@@ -1,0 +1,7 @@
+lib/
+pyenv.cfg
+share/
+bin/
+lib64
+pip-selfcheck.json
+__pycache__/
